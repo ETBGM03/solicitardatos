@@ -1,16 +1,11 @@
 {
-"ejemploajax" [
+"ejemploajax": [
   {
-   {"cedula" :72230311, "nombre": "jose camilo" , "edad" :23}, 
+  {"cedula" :72230311, "nombre": "jose camilo" , "edad" :23}, 
   {"cedula": 12345, "nombre":"Carlos fernandez", "edad" :32},
   {"cedula" :4567, "nombre": "Esteban Gómez", "edad": 18}
-  },
-{
+  }
 
-   {"cedula" :72230311, "nombre": "jose camilo" , "edad" :23}, 
-  {"cedula": 12345, "nombre":"Carlos fernandez", "edad" :32},
-  {"cedula" :4567, "nombre": "Esteban Gómez", "edad": 18}
-}
   
   ]
 
